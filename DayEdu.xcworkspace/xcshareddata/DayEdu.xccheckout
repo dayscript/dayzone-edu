@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9EC35356-40D6-4073-B1AC-60C6207FA1D7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DayEdu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>713FF3121D5A5F802A3AB9110F2A1B05AD82E098</key>
+		<string>https://github.com/dayscript/dayzone-edu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DayEdu.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>713FF3121D5A5F802A3AB9110F2A1B05AD82E098</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dayscript/dayzone-edu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>713FF3121D5A5F802A3AB9110F2A1B05AD82E098</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>713FF3121D5A5F802A3AB9110F2A1B05AD82E098</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DayEdu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
